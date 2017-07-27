@@ -36,7 +36,7 @@ try {
 
     echo "<ul>{$todoList}</ul>";
     echo "<ul>{$todoList}</ul>";
-   echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
     echo "<ul>{$todoList}</ul>";
    
 
