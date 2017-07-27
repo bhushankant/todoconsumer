@@ -41,6 +41,8 @@ try {
    
 
 
+
+
 } catch (GuzzleHttp\Exception\BadResponseException $e) {
     echo "Unable to retrieve access token.";
 }
