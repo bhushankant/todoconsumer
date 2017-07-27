@@ -35,9 +35,7 @@ try {
     }
 
     echo "<ul>{$todoList}</ul>";
-    // This is for testing purposes
-     // This is for testing purposes
-    // This is for testing purposes
+    echo "<ul>{$todoList}</ul>";
    
 
 
