@@ -60,3 +60,7 @@ try {
     echo "Unable to retrieve access token.";
 }
 
+function me(){
+  echo "This is working";
+}
+
