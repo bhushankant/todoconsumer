@@ -35,10 +35,23 @@ try {
     }
 
     echo "<ul>{$todoList}</ul>";
-    // This is for testing purposes
-     // This is for testing purposes
-    // This is for testing purposes
+    echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
+
+
+    echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
+   echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
+
+     echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
+   echo "<ul>{$todoList}</ul>";
+    echo "<ul>{$todoList}</ul>";
    
+   
+
 
 
 
@@ -47,19 +60,3 @@ try {
     echo "Unable to retrieve access token.";
 }
 
-<<<<<<< HEAD
-=======
-function chandra33(){
-  echo "This is for chandra function";
-}
-
-function chandra(){
-  echo "This is for chandra function";
-}
-function chandra1(){
-  echo "This is for chandra function";
-  echo "Last change";
-}
-
-
->>>>>>> 68b6fe49509bfe8d4eb569adec3288f43ab23782
