@@ -47,7 +47,7 @@ try {
 }
 
 function chandra33(){
-  echo "This is for chandra function";
+  echo "This is new syntax for chandra33";
 }
 
 
