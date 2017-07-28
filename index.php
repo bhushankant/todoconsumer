@@ -59,8 +59,7 @@ function chandra(){
   echo "This is for chandra function";
 }
 function chandra1(){
-  echo "This is for chandra function";
-  echo "Last change";
+ echo "final change";
 }
 
 
