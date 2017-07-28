@@ -35,18 +35,15 @@ try {
     }
 
     echo "<ul>{$todoList}</ul>";
-  
- 
-
+    // This is for testing purposes
+     // This is for testing purposes
+    // This is for testing purposes
+   
 
 
 
 
 } catch (GuzzleHttp\Exception\BadResponseException $e) {
     echo "Unable to retrieve access token.";
-}
-
-function chandra(){
-  echo "This is for chandra function";
 }
 
