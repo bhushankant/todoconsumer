@@ -59,6 +59,9 @@ try {
 } catch (GuzzleHttp\Exception\BadResponseException $e) {
     echo "Unable to retrieve access token.";
 }
+function me1(){
+  echo "This is for another me1";
+}
 
 function me(){
   echo "This is working";
