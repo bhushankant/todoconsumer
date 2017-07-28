@@ -50,6 +50,11 @@ function chandra33(){
   echo "This is for chandra function";
 }
 
+function kumari(){
+  echo "This is for chandra function for kumari";
+}
+
+
 function chandra(){
   echo "This is for chandra function";
 }
